@@ -15,6 +15,7 @@ Another idea instead of a welcome party is an exclusive cohort-only career fair 
 ## Project 1 Deliverables
 
 Website Link: https://alexgeng26.github.io/meritas/
+
 The domain can be changed.
 
 Google Form Link: https://forms.gle/8Qjpn7aFSGSYNMaW9
