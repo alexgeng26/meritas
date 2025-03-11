@@ -6,3 +6,5 @@ Website Link: https://alexgeng26.github.io/meritas/
 The domain can be changed once the website is deployed.
 
 Google Form Link: https://forms.gle/8Qjpn7aFSGSYNMaW9
+
+Built by Alex Geng for the Harvard Lampoon Tech Comp
