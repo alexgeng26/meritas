@@ -4,7 +4,7 @@ Physical Address: New Quincy 313
 
 For my round 1 submission, I have created 2 separate projects.
 
-## Project 1: This project lives in this repository. The repository primarily contains a website.
+## Project 1: This project lives in this repository. The repository primarily contains a website, but the project will go beyond just a website.
 
 I have created a spoof service that advertises landing students their dream jobs for a small, exclusive cohort of students. The project consists of a website, email, and Google Form. The website will be used, in tandem with the email (see photo in repo), to attract students to fill out their contact info on the Google Form, as many Harvard students want to land a prestigious career.
 
